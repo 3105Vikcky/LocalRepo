@@ -3,52 +3,7 @@
 //Added new Data
 
 //Date 25 /02/2025
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    background-color: #f4f4f4;
-}
 
-header {
-    background-color: #333;
-    color: white;
-    padding: 20px;
-    font-size: 24px;
-}
-
-section {
-    padding: 40px;
-}
-
-.dashboard {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
-.card {
-    background: white;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 300px;
-}
-
-.cta-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    margin-top: 20px;
-    cursor: pointer;
-    border: none;
-}
-
-.cta-button:hover {
-    background-color: #0056b3;
-}
+const showAlert = () => {
+    alert("SmartMergeAI automates your GitHub pull request workflow!");
+};
