@@ -9,6 +9,7 @@ def multiply(x, y):
 
 def divide(x, y):
     return x / y if y != 0 else "Error! Division by zero."
+# Added Modulous to calculate modolus  
 def modulus(x.y):
     return x%2
 
