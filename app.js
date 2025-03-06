@@ -6,5 +6,5 @@
 
 const showAlert = () => {
     alert("SmartMergeAI automates your GitHub pull request workflow!");
-    alert("Here we go for Code_diff and PR_raise_comments");
+    alert("Here we go for Code_diff and comments");
 };
