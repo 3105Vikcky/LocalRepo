@@ -6,5 +6,5 @@
 
 const showAlert = () => {
     alert("Checking Merge Conflict with RAG Approach");
-    alert("Here we go for Code_diff and PR_raise_comments");
+    alert("There is some extra changes);
 };
